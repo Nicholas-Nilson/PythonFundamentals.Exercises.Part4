@@ -8,3 +8,9 @@ def fibonacci(n):
 
 print(fibonacci(10))
 
+# if we wanted to make a list of fibonacci numbers, the length of the input number.
+# fibonacci_sequence= []
+# for num in range(0, 5):
+#     fibonacci_sequence.append(fibonacci(num))
+# print(fibonacci_sequence)
+
