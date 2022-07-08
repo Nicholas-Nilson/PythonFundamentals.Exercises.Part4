@@ -13,6 +13,7 @@ def user_guess():
             print("please only enter a number from 1 to 10")
             pass
 
+
 def random_number():
     return randrange(10)
 
